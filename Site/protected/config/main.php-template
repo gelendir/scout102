@@ -1,0 +1,119 @@
+<?php
+
+// uncomment the following to define a path alias
+// Yii::setPathOfAlias('local','path/to/local-folder');
+
+// This is the main Web application configuration. Any writable
+// CWebApplication properties can be configured here.
+//
+
+return array(
+    'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
+    'name'=>'${siteName}',
+    'defaultController' => 'accueil',
+
+    // preloading 'log' component
+    'preload'=>array('log'),
+
+    'language' => 'fr',
+
+    // autoloading model and component classes
+    'import'=>array(
+        'application.models.*',
+        'application.components.*',
+        'ext.yii-mail.YiiMailMessage',
+    ),
+
+    'modules'=>array(
+    ),
+
+    // application components
+    'components'=>array(
+        'mail' => array(
+            'class' => 'ext.yii-mail.YiiMail',
+            'transportType' => 'smtp', //smtp or php
+            'viewPath' => 'application.views.mail',
+            'logging' => 'false',
+            'dryRun' => 'false',
+            'transportOptions' => array(
+                'host' => '${smtpHost}',
+                'username' => '${smtpUsername}',
+                'password' => '${smtpPassword}',
+                'port' => ${smtpPort},
+                'encryption' => ${smtpEncrypt},
+            ),
+        ),
+        'user'=>array(
+            // enable cookie-based authentication
+            'allowAutoLogin'=>true,
+        ),
+        // uncomment the following to enable URLs in path-format
+        /*
+        'urlManager'=>array(
+            'urlFormat'=>'path',
+            'rules'=>array(
+                '<controller:\w+>/<id:\d+>'=>'<controller>/view',
+                '<controller:\w+>/<action:\w+>/<id:\d+>'=>'<controller>/<action>',
+                '<controller:\w+>/<action:\w+>'=>'<controller>/<action>',
+            ),
+        ),
+        */
+        // uncomment the following to use a MySQL database
+        'db'=>array(
+            'connectionString' => '${dbConnectionString}',
+            'emulatePrepare' => true,
+            'username' => '${dbUsername}',
+            'password' => '${dbPassword}',
+            'charset' => 'utf8',
+        ),
+        'errorHandler'=>array(
+            'errorAction'=>'accueil/error',
+        ),
+        'log'=>array(
+            'class'=>'CLogRouter',
+            'routes'=>array(
+                array(
+                    'class'=>'CFileLogRoute',
+                    'levels'=>'error, warning',
+                ),
+                array(
+                    'class' => 'CEmailLogRoute',
+                    'levels' => 'error',
+                    'emails' => '${errorEmail}',
+                    'sentFrom' => '${adminEmail}',
+                ),
+                array(
+                    'class' => 'CFileLogRoute',
+                    'levels' => 'info',
+                    'logFile' => 'paiements.log',
+                    'categories' => 'paiement',
+                ),
+            ),
+        ),
+    ),
+
+    // application-level parameters that can be accessed
+    // using Yii::app()->params['paramName']
+    'params'=>array(
+        // this is used in contact page
+        'adminEmail'=>'${adminEmail}',
+        'dateFormat' => '${dateFormat}',
+        'jsDateFormat' => '${jsDateFormat}',
+        'dateFormatMedicalCard' => '${dateFormatMedicalCard}',
+        'resetPasswordTimeout' => '${resetPasswordTimeout}',
+        'formatDate' => '${formatDate}',
+        'formatArgent' => '${formatArgent}',
+        'sessionNbJours' => ${sessionNbJours},
+        'sessionMois' => ${sessionMois},
+        'sessionJour' => ${sessionJour},
+        'paypalPdtKey' => '${paypalPdtKey}',
+        'paypalMerchantId' => '${paypalMerchantId}',
+        'paypalApiUrl' => '${paypalApiUrl}',
+        'paypalConnectMode' => '${paypalConnectMode}',
+        'timezone' => '${timezone}',
+        'adresseEntreprise' => '${adresseEntreprise}',
+        'numeroEntreprise' => '${numeroEntreprise}',
+        'noRecuEntreprise' => '${noRecuEntreprise}',
+        'pdfAuthor' => '${pdfAuthor}',
+    ),
+);

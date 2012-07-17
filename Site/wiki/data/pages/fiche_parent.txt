@@ -1,0 +1,17 @@
+====== Fiche parent ======
+{{:inscription.png?500|}}
+
+===== Description =====
+
+La fiche d'information du parent sert aux nouveaux parents à compléter leur inscription sur le système. La même interface est réutilisé lorsqu'un parent veut modifier les informations de son compte. 
+
+Les personnes ayant accès à cette page seront seulement les parents qui désirent s'inscrire au système ou les parents déjà inscrit. Lorsque le parent n'a pas encore de compte, il doit d'abord passer par l'interface d'[[inscription]]. Si le parent est déjà inscrit et veut modifier ses informations, il doit passer par la page d'accueil des parents et appuyer sur le bouton de modification de profil.
+
+L'interface est utilisé pour remplir les informations du parent tel que son nom, prénom, téléphone principal, emploi adresse etc.
+
+===== Étapes =====
+    - Entrer les informations demandées.
+    - Entrer des adresses et en choisir une principale.
+    - Choisir les implications désirés.
+
+===== Autres informations =====

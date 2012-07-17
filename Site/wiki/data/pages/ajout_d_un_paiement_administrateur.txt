@@ -1,0 +1,20 @@
+======Ajout d'un paiement (Administrateur)======
+{{:ajout_paiement.png?500|}}
+
+=====Description=====
+Cette interface est utilisée pour ajouter un versement dans le système.
+
+L'interface est utilisée du côté administrateur et ne peut être utilisée que par ceux-ci.
+
+Elle est principalement utilisée pour ajouter le versement d'un parent qui n'a pas accès à Internet, qui paye par chèque ou en argent comptant.\\
+Elle est aussi utilisée au cas où un paiement Paypal se serait mal enregistré dans le système.
+
+=====Étapes=====
+
+  - Choisir le mode de paiement du versement
+  - Cliquer sur __Ajouter le versement__
+
+
+=====Autres informations=====
+
+Après avoir enregistré le paiement, l'administrateur est redirigé vers la [[liste_des_paiements_administrateur|liste des paiements]].

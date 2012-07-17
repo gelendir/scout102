@@ -1,0 +1,26 @@
+======Fiche enfant======
+{{:inscription_enfant.png?500|}}
+
+=====Description=====
+
+Cette interface est utilisée pour inscrire un enfant et entrer les informations le concernant.
+
+L'interface peut être accédée par les parents et/ou les administrateurs du site. Les parents y accède via l'accueil parent avec l'action __Ajouter un enfant__\\
+et les administrateurs via l'action __Inscrire un nouveau scout__ ou __Modifier ce profil__ dans le menu __Scouts__.
+
+Celle-ci est utilisée pour entrer les informations personnelles de l'enfant, telles son nom et prénom, sa date de naissance, son numéro d'assurance maladie, son adresse de résidence, etc.\\
+On retrouve également la section pour le contact d'urgence, ainsi que celle pour les reçus d'impôt. Finalement, les autorisations de baignade et de prise et diffusion de photo à des fins\\
+promotionnelles sont situé au bas de la page.
+
+=====Étapes=====
+Remplir les informations personnelles de l'enfant.\\
+Remplir la section __Reçu d'impôt__.\\
+Remplir la section __Contact d'urgence__.\\
+Remplir la __Section des autorisations__.\\
+
+=====Autres informations=====
+Les parents y accède via l'accueil parent avec l'action __Ajouter un enfant__\\
+et les administrateurs via l'action __Inscrire un nouveau scout__ ou __Modifier ce profil__ dans le menu __Scouts__.\\
+
+Si la page est sauvegardées sans erreur, les parents seront redirigés vers leur page d'accueil et les administrateurs seront redirigés vers la liste des scouts.
+ 

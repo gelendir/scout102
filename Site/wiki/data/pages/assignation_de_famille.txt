@@ -1,0 +1,13 @@
+======Assignation de famille======
+{{:assignation_famille.png?500|}}
+
+=====Description=====
+Cette interface est utilisée pour qu'un parent nouvellement inscris au système puisse accéder aux et modifier\\
+les informations de ses enfants, si le deuxième parent avait préalablement inscris les enfants dans le système.
+
+L'interface peut être accédée par un administrateur à partir du menu administrateur sous l'onglet __Famille__.
+
+=====Étapes=====
+Bien lire la mise en garde et les mises en situation si c'est votre première utilisation de cette fonctionnalité.\\
+Choisir le parent à ajouter à une famille.\\
+Choisir la famille dans laquelle vous voulez ajouter le parent.\\

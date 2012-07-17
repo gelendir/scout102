@@ -1,0 +1,37 @@
+======Création ou modification d'une fiche médicale======
+{{:fiche_med1.png?500|}}{{:fiche_med2.png?500|}}
+
+=====Description=====
+
+Cette interface est utilisée pour créer ou modifier la fiche médicale d'un scout. On y retrouve toutes les conditions médicales\\
+particulières à l'enfant, ainsi que les informations sur son école et son niveau scolaire.
+
+L'interface est accessible par tous les utilisateurs du site, autant les parents qui inscrivent leur(s) enfant(s) que par les administrateurs du site.
+Tous deux peuvent créer et/ou modifier la fiche d'un enfant au besoin.
+
+Elle est utilisée pour connaître les conditions médicales spécifiques à l'enfant, telle(s) la/les maladie(s) dont l'enfant peut être affectée(s), ses allergies et ses peurs. Il y a également des\\
+questions générales qui posent sur des points plus spécifiques, s'il porte des lunettes, par exemple. Ensuite, le parent ou administrateur peut entrer les médicaments de l'enfant.\\
+Le reste des informations concerne les informations scolaires de l'enfant, ainsi que les activités pratiquées par l'enfant.
+
+=====Étapes=====
+
+Choisir le/les __État(s) médical(s)__\\
+Répondre aux __Questions générales__\\
+Répondre aux questions portant sur les __Médicaments autorisés__\\
+Inscrire les __Médicament sous prescription__, si applicable\\
+Inscrire les __Allergies__, si applicable\\
+Inscrire les __Peurs et phobies__, si applicable\\
+Inscrire les __Informations scolaires__ de l'enfant\\
+Inscrire les __Autres activités__ de l'enfant, si applicable
+Si votre enfant a une condition médicale qui n'est pas inscrite ci-haut, veuillez l'inscrire dans la section __Autres conditions médicales ou particularités__\\
+Cocher la case de confirmation si la fiche et complétée\\
+Entrer votre mot de passe à l'endroit prévu\\
+Sauvegarder la fiche\\
+
+=====Autres informations=====
+
+Le parent ou administrateur doit avoir inscrit un enfant avant de pouvoir accéder à la fiche médicale.\\
+Si l'utilisateur veut confirmer la fiche médicale, il doit absolument remplir les champs __Questions générales__, __Médicaments autorisés (en vente libre)__ et les __Informations scolaires__ de l'enfant,\\
+sinon aucun champ n'est obligatoire.
+
+Après la sauvegarde, redirige vers l'[[accueil_-_liste_des_enfants|accueil - Liste des enfants]].

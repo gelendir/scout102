@@ -1,0 +1,16 @@
+======Liste des unités======
+{{:accueil.jpg?200|}}
+=====Description=====
+Cette interface affiche la liste de toutes les unités de l'année en cours ou des années précédentes.
+
+L'interface sera utilisée par les administrateurs du site et ils pourront y accéder en passant par la section administrateur du site.
+
+Elle est utilisée pour [[creation_unite|créer des unités]], modifier une unité déjà créée ou pour archiver une unité.
+
+=====Étapes=====
+
+Pour créer une unité, cliquer sur l'hyperlien __Ajouter une unité__  
+    - Voir [[creation_unite|créer une unité]]  
+Modifier une unité
+    - Voir [[creation_unite|créer une unité]]
+Archiver, si voulu

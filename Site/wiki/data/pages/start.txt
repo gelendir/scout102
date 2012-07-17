@@ -1,0 +1,57 @@
+====== Accueil ======
+
+Bienvenue sur le wiki pour P.A.I.N.S, Le programme d'Assistance à l'Inscription Numérique des Scouts. Sur ce wiki vous retrouverez des guides vous expliquant comment utiliser le système.
+
+===== Table des matières =====
+
+Voici la liste de tout les guides. Veuillez cliquer sur un des liens ci-bas pour en apprendre plus sur l'utilisation d'une section du système
+
+==== Section Parent ====
+
+[[Accueil]]
+
+[[Accueil - Oubli de mot de passe]]
+
+[[Accueil - Création d'utilisateur]]
+
+[[Fiche parent]]
+
+[[Fiche enfant]]
+
+[[Adresse - Boîte d'ajout]]
+
+[[Accueil - Liste des enfants]]
+
+==== Section administrateur ====
+
+[[Notifications]]
+
+[[Scout]]
+
+[[Unités(création modification)]]
+
+[[Utilisateur (création modification)]]
+
+[[Générateur de liste (Administrateur)]]
+
+[[Assignation de famille]]
+
+[[Liste des scouts (Administrateur)]]
+
+[[Liste des utilisateurs (Administrateur)]]
+
+[[Liste des unités (Administrateur)]]
+
+[[Liste des paiements (Administrateur)]]
+
+[[Ajout d'un paiement (Administrateur)]]
+
+[[Reçu d'impôt - Génération (Administrateur)]]
+
+[[Reçu d'impôt - Rapport (Administrateur)]]
+
+[[Fiche médicale (Création et modification)]]
+
+[[Génération de fiches médicales (Administrateur)]]
+  - [[Impression de fiches médicales (Pleine page)]]
+  - [[Impression de fiches médicales (Demie-page)]]

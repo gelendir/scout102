@@ -1,0 +1,9 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1323399326;s:8:"modified";i:1323399326;}s:11:"last_change";a:7:{s:4:"date";i:1323399326;s:2:"ip";s:15:"199.202.104.151";s:4:"type";s:1:"C";s:2:"id";s:31:"liste_des_scouts_administrateur";s:4:"user";N;s:3:"sum";s:7:"créée";s:5:"extra";s:0:"";}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:16:"Liste des scouts";s:11:"description";a:2:{s:15:"tableofcontents";a:3:{i:0;a:4:{s:3:"hid";s:16:"liste_des_scouts";s:5:"title";s:16:"Liste des scouts";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:11:"description";s:5:"title";s:11:"Description";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:6:"etapes";s:5:"title";s:7:"Étapes";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:380:"Description
+
+Cette interface affiche la liste de tous les scouts.
+
+Elle est accessible par un administrateur via le menu administrateur sous l'onglet Scouts.
+
+En plus d'afficher tous les scouts du Groupe, l'interface contient le lien vers l'inscription de nouveau scout
+
+(Inscrire un nouveau scout) et le lien vers la modification des informations d'un scout (Modifier ce profil).";}s:8:"relation";a:2:{s:10:"references";a:1:{s:5:"scout";b:1;}s:10:"firstimage";s:15:"liste_scout.png";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1323399326;}s:11:"last_change";a:7:{s:4:"date";i:1323399326;s:2:"ip";s:15:"199.202.104.151";s:4:"type";s:1:"C";s:2:"id";s:31:"liste_des_scouts_administrateur";s:4:"user";N;s:3:"sum";s:7:"créée";s:5:"extra";s:0:"";}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

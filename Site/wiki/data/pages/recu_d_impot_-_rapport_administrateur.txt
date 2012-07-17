@@ -1,0 +1,19 @@
+======Reçu d'impôt (Rapport)======
+{{:recu_impot_modification.png?500|}}
+
+=====Description=====
+
+Cette interface est utilisée pour modifier les données d'un reçu d'impôt.
+
+L'interface est accessible par les administrateurs seulement en passant par la [[recu_d_impot_-_generation_administrateur|liste des reçus d'impôt]].
+
+Elle est utilisée pour modifier le montant du reçu, notamment, mais est aussi utilisée pour modifier le nom et le prénom apparaissant sur le reçu, le courriel et/ou l'activité pour laquelle le reçu est émis.
+
+=====Étapes=====
+Modifier les éléments voulus du reçu.\\
+Cliquer sur __Sauvegarder__.\\
+
+=====Autres informations=====
+
+Cette page est accédée en passant par la [[recu_d_impot_-_generation_administrateur|liste des reçus d'impôt]].\\
+__Sauvegarder__ renvoie à la [[recu_d_impot_-_generation_administrateur|liste des reçus d'impôt]].

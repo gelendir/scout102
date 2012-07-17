@@ -1,0 +1,96 @@
+
+html {
+}
+
+body {
+    background-color:#B2D9F7;
+    background:#B2D9F7;
+    padding-top: 5px;
+}
+
+html, body {
+}
+
+#container {
+    display: block;
+    margin:0 auto;
+    width:1024px;
+    background-color: white;
+    background-color: #FFAD40;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    box-shadow: 0 1px 2px rgba(0,0,0,.15);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+
+#header {
+    text-align: center;
+    vertical-align: middle;
+    background-color:#6699CC;
+    background: #6699CC url('/images/logo102.png') no-repeat 3px 3px;
+    height: 90px;
+    padding: 3px 3px 3px 3px;
+    padding-left: 175px;
+}
+
+#header h1 {
+    padding-top: 25px;
+    display: inline-block;
+    font-size: 38px;
+}
+
+
+#menu {
+    width: 160px;
+    padding: 0 5px 0 5px;
+    vertical-align: top;
+    text-align: left;
+    background-color: #FFAD40;
+    float: left;
+    /* display: inline-block; */
+}
+
+#content
+{
+    padding: 20px 20px 20px 20px;
+    width: 810px;
+    background:#fff;
+    float: right;
+    min-height: 477px;
+    /* display: inline-block; */
+}
+
+#footer {
+    clear: both;
+}
+
+nav a {
+    display: block;
+    font-size: 16px;
+    overflow: hidden:
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    padding: 9px 14px 9px;
+    margin: 3px 3px 3px 3px;
+    background-color: #418FE0;
+}
+
+
+
+.search {
+    padding: 15px 0 15px 0;
+}
+
+.row {
+    margin-left: 0px;
+}
+
+div.help-inline {
+    display: inline;
+}

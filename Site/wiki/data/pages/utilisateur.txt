@@ -1,0 +1,22 @@
+====== Utilisateur (création modification) ======
+{{accueil.jpg}}
+===== Description =====
+
+La fiche de création et modification des utilisateurs sert aux administrateurs à modifier les informations des utilisateurs du système.
+
+Les personnes ayant accès à cette interface sont les administrateurs. On doit d'abord accéder à la section administrateur et choisir la section utilisateur dans le menu.
+
+L'interface est utilisé pour que les administrateurs puissent créer et modifier les informations des utilisateurs. Si on utilisateur n'a pas accès à internet les administrateurs peuvent s'occuper des informations de son compte.
+===== Étapes =====
+Créer un utilisateur
+    - Choisir un parent.
+    - Inscrire les informations demandés.
+    - Entrer des adresses et choisir la principale.
+    - Entrer les rôles de l'utilisateur.
+
+
+Modifier un utilisateur
+    - Choisir un courriel et mot de passe.
+    - Inscrire les informations demandés.
+    - Entrer des adresses et choisir la principale.
+    - Entrer les rôles de l'utilisateur.

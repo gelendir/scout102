@@ -1,0 +1,15 @@
+======Paiements======
+{{:paiements_liste.png?500|}}
+
+Cette interface affiche la liste des tous les paiement faits ou à faire dans le système.
+
+L'interface est accessible par les administrateurs via la section administrateur du système sous l'option __Paiements__.
+
+Elle sert à voir tous les paiements effectués et ceux qui ne sont pas encore payés. Il es également possible de visualiser un paiement\\
+en particulier et d'enregistrer un versement à l'aide de la page [[ajout_d_un_paiement_administrateur|Ajout d'un versement]].
+
+=====Étapes=====
+
+Choisir le paiement à __Visualiser__ pour plus d'option
+    - Voir [[ajout_d_un_paiement_administrateur|Ajout d'un versement]].
+Action __Précédent__ ou __Suivant__ pour parcourir le tableau.

@@ -1,0 +1,18 @@
+====== Scout (création modification) ======
+{{:scout_creation.png?500|}}
+
+===== Description =====
+
+La fiche de création et modification de scouts sert aux administrateurs à modifier les informations des scouts.
+
+Les personnes ayant accès à cette interface sont les administrateurs. On doit d'abord accéder à la section administrateur et choisir la section scout dans le menu.
+
+L'interface est utilisé pour que les administrateurs puissent créer et modifier les informations des scouts lorsque les parents n'ont pas accès à internet et ne peuvent pas modifier eux même les informations de leurs enfants.
+===== Étapes =====
+Créer un scout
+    - Choisir le parent du scout dans la liste (créer un parent s'il n'existe pas encore).
+    - Entrer les informations demandés.
+    - Entrer des adresses et en choisir une principale.
+    - Confirmer les autorisations.
+Modifier un scout
+    - Voir la [[fiche_enfant|fiche d'inscription de l'enfant]].

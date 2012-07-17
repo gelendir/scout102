@@ -1,0 +1,1 @@
+﻿<?php echo $this->renderPartial('//generationFiche/_form', array('unite'=>$unite)); ?>

@@ -1,0 +1,178 @@
+h2 {
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+/* rows and columns */
+
+.row {
+    padding: 10px 0 10px 0;
+}
+
+.row:after {
+    clear: both;
+}
+
+.col1, .col2, .col3, .col4 {
+    float: left;
+}
+
+.col1 {
+    width: 790px;
+}
+
+.col2 {
+    width: 395px;
+}
+
+.col3 {
+    width: 263px;
+}
+
+.col4 {
+    width: 197px;
+}
+
+/* form elements */
+
+form label {
+    /*float: none;*/
+    text-align: left;
+    width: auto;
+}
+
+form input.error, form select.error, form textarea.error {
+    border-color: #EE5F5B;
+    color: #B94A48;
+}
+
+form textarea, form textarea.xlarge {
+    min-width: 617px;
+    min-height: 100px;
+}
+
+form.paypal input {
+    height: auto;
+    width: auto;
+}
+
+/* field elements */
+
+span.description {
+    font-size: 14px;
+    display: block;
+    padding: 5px 0 5px 0;
+}
+
+.field {
+    display: inline-block;
+}
+
+.field span, .field input, .field label {
+    display: block;
+}
+
+.field span, .field label {
+    font-size: 11px;
+}
+
+.mask {
+    font-size: 10px;
+}
+
+span.seperator {
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* modal adress window */
+
+.modal form label {
+    float: left;
+    text-align: right;
+    width: 130px;
+}
+
+form .addresslist {
+    height: 95px;
+    width: 325px;
+}
+
+.addremove {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.addremove .btn {
+    display: block;
+    width: 13px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* tables and lists */
+
+table.nolines td {
+    border-top: none;
+}
+
+table.reduced {
+    width: 75%;
+}
+
+ul.actionlist {
+    list-style-type: none;
+    margin: 0;
+}
+
+ul.actionlist li {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    padding: 5px 0px 5px 0px;
+}
+
+.actionlist span {
+    vertical-align: top;
+    padding-left: 5px;
+}
+
+div.reduced {
+ width: 215px;
+}
+
+.arrows {
+    width: 30px;
+    float:left;
+    padding-top: 50px;
+}
+
+.breadcrumb .active {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.breadcrumb .divider {
+    font-size: 20px;
+    font-weight: normal;
+    color: gray;
+}
+
+.multilist-list {
+    width: 240px;
+}
+
+.multilist-buttons {
+    width: 87px;
+    padding-top: 26px;
+}
+
+form .multilist-buttons input {
+    display: block;
+    margin: 4px 4px 4px 4px;
+}
+
+form .multilist-list select {
+    height: 100px;
+}

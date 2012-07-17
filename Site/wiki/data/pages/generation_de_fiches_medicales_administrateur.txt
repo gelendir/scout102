@@ -1,0 +1,19 @@
+======Générateur de fiches médicales======
+{{:generation_fiche_med.png?500|}}
+
+=====Description=====
+
+Cette interface est utilisée pour imprimer les fiches médicales des différents scouts du groupe.
+
+L'interface ne peut être utilisée que par les administrateurs du site dans la section administrateur.
+
+Elle sert à imprimer les fiches médicales des différents unités en début d'année et/ou à imprimer les fiches médicales qui ont été modifiés au cours de l'année.\\
+L'administrateur qui souhaite imprimer des fiches peut choisir d'imprimer les fiches d'une unité complète ou les fiches qui ont été modifiées depuis une certain\\
+nombre de jours. Finalement, il peut choisir d'imprimer les fiches en format pleine page ou en format demie-page.
+
+=====Étapes=====
+
+Choisir l'unité pour laquelle vous voulez imprimer les fiches\\
+OU\\
+Choisir le nombre de jour(s) pour imprimer les fiches qui ont été modifiées depuis ce nombre de jour(s)\\
+Choisir le format d'impression, pleine page OU demie-page

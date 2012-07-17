@@ -1,0 +1,18 @@
+======Accueil - Création d'utilisateur======
+{{:creation_utilisateur.png?500|}}
+
+=====Description=====
+Cette interface est utilisée pour créer un nouvel utilisateur dans le système.
+
+L'interface est accessible par tous les utilisateurs.
+
+Cette page est utilisée lors de la création d'un nouvel utilisateur. On y demande seulement un courriel valide et un mot de passe.
+
+=====Étapes=====
+Entrer un courriel valide à l'endroit demandé.\\
+Entrer un mot de passe à l'endroit demandé.\\
+Ré-entrer le mot de passe à l'endroit demandé.\\
+
+=====Autres informations=====
+
+La page est accédée à partir de la page d'authentification à partir de __Me créer un nouveau compte__.

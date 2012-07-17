@@ -1,0 +1,21 @@
+======Génération des reçus d'impôt======
+{{:generation_recu_impot.png?500|}}
+
+=====Description=====
+
+Cette interface affiche une liste de tous les reçus d'impôt du système.
+
+L'interface est accessible par les administrateurs du côté administration du site en passant par l'option __Reçus d'impôt__ du menu.
+
+Elle est utilisée pour imprimer ou envoyer par courriel les reçus d'impôt. Il est également possible de visualiser et/ou de modifier les reçus d'impôt.\\
+Il est finalement possible de choisir si vous voulez envoyer tel ou tel reçu par courrier électronique ou par la poste.
+
+=====Étapes=====
+
+Cliquer sur __Préparer les reçus__ pour rafraîchir la liste des reçus.\\
+__Consulter__ ou __Modifier__ les reçus, au besoin, à partir de la colonne __Action__.\\
+Cliquer sur le bouton au bas de la page pour imprimer les reçus à imprimer et envoyer les reçus à envoyer par courriel.\\
+
+=====Autres informations=====
+
+Cette page peut être accédée par les administrateurs en passant par l'option __Reçus d'impôt__ du menu.

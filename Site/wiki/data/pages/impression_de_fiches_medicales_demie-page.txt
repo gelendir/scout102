@@ -1,0 +1,16 @@
+======Impression de fiches médicales (Demie-page)======
+{{:fiche_med_r2.png?500|}}
+
+=====Description=====
+Ce rapport sert à imprimer des fiches médicales format demie-page.
+
+Il sert seulement à imprimer les fiches médicales affichées selon les paramètres choisis précédemment.
+
+=====Étapes=====
+
+Visualiser les fiches médicales, au besoin\\
+Imprimer à l'aide du bouton situé au bas du rapport
+
+=====Autres informations=====
+
+Le rapport peut être accéder en passant par le [[generation_de_fiches_medicales_administrateur|Générateur de fiches médicales]] du côté administrateur.

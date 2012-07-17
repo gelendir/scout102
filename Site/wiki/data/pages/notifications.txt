@@ -1,0 +1,16 @@
+====== Notifications ======
+{{:notification.png?500|}}
+
+===== Description =====
+
+L'interface des notifications sert aux administrateurs à voir les derniers changements importants effectués dans le système.
+
+Les personnes ayant accès à cette interface sont les utilisateurs ayant le rôle d'administrateurs. Cette page sert d'accueil pour la section administrateur.
+
+Des notifications sont ajoutés lorsque des actions importantes sont effectuées tel que la modification des fiche d'informations et fiche médicales par un parent ou un administrateur. En ajoutant des notifications, les administrateurs peuvent voir les changement importants qui se sont produit récemment dans le système.
+===== Étapes =====
+    - Consulter les notifications.
+    - Enlever les notifications de la page en appuyant sur le bouton lu correspondant à chacune d'elle.
+
+===== Autres informations =====
+Cette page est utilisée comme page d'accueil pour la section administrateur.

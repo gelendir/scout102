@@ -1,0 +1,21 @@
+======Générateur de listes======
+{{:generateur_listes.png?500|}}
+
+=====Description=====
+
+Cette interface est utilisée pour la création de listes de scouts selon les paramètres souhaités par l'administrateur.
+
+L'interface est accessible seulement au administrateur du système et est accessible via le menu sous l'onglet __Listes__.
+
+Elle sert principalement à créer des listes de scouts, mais peut aussi servir à faire des listes de parents, de contact\\
+ou d'unité., puisque les informations contenues dans les listes sont paramétrables.
+
+=====Étapes=====
+Télécharger la macro, si applicable.\\
+  - Suivre les étapes d'activation de la macro.\\
+Choisir les paramètres voulus ou choisir __Tout sélectionner__.\\
+Cliquer sur __Exporter vers Excel__.\\
+
+=====Autres informations=====
+
+Cette page est accédé via le menu administrateur sous l'onglet __Listes__.

@@ -1,0 +1,19 @@
+======Boîte d'ajout d'adresse======
+{{:ajout_adresse.png?500|}}
+
+=====Description=====
+
+Cette interface est utilisée pour l'ajout d'adresse à la banque d'adresse de l'utilisateur.
+
+L'interface est accessible par les parents lors de leur inscription ou de la modification de leur profil et lors de l'inscription\\
+de leur(s) enfant(s) et elle est accessible par les administrateurs lors de l'inscription/modification d'un utilisateur ou d'un scout.
+
+L'interface a un champ pour la ville qui contient les villes les plus utilisées par les utilisateurs qui auto-complète l'entrée de\\
+l'utilisateur. Il y a également une liste déroulante pour la province. Finalement, il y a des champs pour l'adresse et pour le code postal.
+
+=====Étapes=====
+
+Remplir le champ de l'adresse.\\
+Remplir le champ pour la ville.\\
+Choisir la province.\\
+Remplir le champ du code postal.\\

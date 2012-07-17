@@ -1,0 +1,19 @@
+======Accueil - Authentification======
+{{:accueil.png?500|}}
+
+=====Description=====
+Cette interface est utilisé pour s'authentifier dans le système.
+
+L'interface sera utilisée par les parents et les administrateurs.
+
+Elle est utilisée pour s'authentifier dans le système et contient les liens __J'ai oublié mon mot de passe__ et __Me créer un nouveau compte__.
+
+=====Étapes=====
+
+Entrer son nom d'utilisateur\\
+Entrer son mot de passe\\
+Cliquer sur __Se connecter__\\
+
+=====Autres informations=====
+
+Si l'utilisateur avait déjà un compte et qu'il se connecte, l'utilisateur est redirigée vers l'[[accueil - liste de enfants_-_liste_des_enfants|accueil]], sinon il est redirigé vers la [[fiche_parent|fiche parent]].

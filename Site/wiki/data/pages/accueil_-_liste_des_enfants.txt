@@ -1,0 +1,25 @@
+======Accueil - Liste des enfants======
+{{:liste_enfant.png?500|}}
+
+=====Description=====
+
+Cette interface sert d'accueil au parent qui sont déjà inscrit dans le système et qui se connecte dans le système.\\
+On y voit la liste des enfants inscrit par le parent qui se retrouvent dans le système.
+
+Cette interface est utilisée par les parents lorsqu'ils se connectent au système. Les administrateurs passent aussi par cette page avant de passer au menu administrateur.
+
+Elle sert principalement à ajouter un enfant dans le système ou à modifier les informations ou les fiches médicales d'un des enfants de la famille.\\
+On peut également y modifier le profil du parent.
+
+=====Étapes=====
+
+__Ajouter une enfant__ pour ajouter un nouvel enfant.\\
+__Modifier mon profil__ pour modifier le profil du parent.\\
+__Procéder au paiement__ si Vous avez des paiements à effectuer après une/des inscription(s) d'enfant.\\
+Action __Fiche d'inscription__ pour modifier la fiche d'inscription de l'enfant.\\
+Action __Fiche médicale__ pour modifier la fiche médicale de l'enfant.\\
+
+=====Autres informations=====
+
+La page est accédée après qu'un nouvel utilisateur se soit inscrit, ou lorsqu'un utilisateur régulier se connecte au système.\\
+Après la complétion d'une fiche médicale d'enfant, le système redirige l'utilisateur vers cette page.

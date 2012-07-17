@@ -1,0 +1,17 @@
+======Oubli de mot de passe======
+{{:oubli_mdp.png?500|}}
+
+=====Description=====
+Cette interface est utilisée pour récupérer un mot de passe en cas de perte.
+
+L'interface peut être accédée par n'importe quel utilisateur qui en a besoin.
+
+Elle envoie le mot de passe de l'utilisateur à l'adresse mentionnée.
+
+=====Étapes=====
+Entrer le courriel correspondant au mot de passe oublié à l'endroit prévu.\\
+Le mot de passe sera envoyé à l'adresse courriel.
+
+=====Autres informations=====
+
+La page est accédée à partir de la [[accueil|page d'authentification]].
